@@ -1,3 +1,5 @@
+## CONSEGNA DAY 1
+
 ### Milestone 1
 
 Nel componente principale della nostra Vue App facciamo una chiamata API all’endpoint costruito nel progetto Laravel e recuperiamo tutti i progetti dal nostro back-end.
@@ -29,3 +31,7 @@ Incollare il seguente codice:
 ```
 
 Io uso il verde "#117F4E" per Vue ed il rosso "#AC3535" per Laravel, vanno inseriti al posto di CODICE_COLORE
+
+## CONSEGNA DAY 2
+
+Aggiungete il router e la pagina di dettaglio - comprensiva di API sul backend
